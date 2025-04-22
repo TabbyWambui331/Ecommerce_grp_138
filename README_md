@@ -1,0 +1,73 @@
+#  E-commerce Database Project
+
+Welcome to our E-commerce Platform Database repository! This project involves designing a robust relational database to manage an e-commerce system with product variations, attributes, and categories.
+
+---
+
+##  Entity-Relationship Diagram (ERD)
+
+> Click [here](#) to view the ERD (insert link to your ERD on Lucidchart/dbdiagram.io).
+
+The ERD consists of the following entities:
+- Product
+- Brand
+- Product Category
+- Product Item
+- Product Variation
+- Product Image
+- Color
+- Size Category
+- Size Option
+- Product Attribute
+- Attribute Category
+- Attribute Type
+
+---
+
+##  Database Tables Overview
+
+| Table Name            | Description |
+|-----------------------|-------------|
+| `product`             | Main product details (name, price, brand, category) |
+| `brand`               | Stores brand information |
+| `product_category`    | Classifies products into categories |
+| `product_item`        | Represents sellable versions of a product |
+| `product_variation`   | Maps specific color and size to a product |
+| `product_image`       | Product image references |
+| `color`               | Available colors |
+| `size_category`       | Categories for size options (e.g., shoes, clothes) |
+| `size_option`         | Specific sizes |
+| `product_attribute`   | Custom attributes like material or weight |
+| `attribute_category`  | Groups of attributes (e.g., physical, technical) |
+| `attribute_type`      | Data types for attributes (text, number, boolean) |
+
+---
+
+##  Data Flow Description
+
+1. **Products** are created with a brand and category.
+2. **Variations** are assigned to products using size and color.
+3. **Product Items** represent purchasable inventory units linked to variations.
+4. **Images**, **attributes**, and **custom details** enrich the product listing.
+5. **Attributes** are grouped and typed for flexibility.
+
+---
+
+##  Team Collaboration
+
+| Name | Role | Responsibilities |
+|------|------|------------------|
+| Member 1 | DB Architect | Defined structure, keys, and relationships |
+| Member 2 | ERD Designer | Designed and updated the ERD |
+| Member 3 | SQL Developer | Wrote the SQL schema (`ecommerce.sql`) |
+| Member 4 | Documentation Lead | Managed this README and repo organization |
+
+We worked collaboratively through:
+-  GitHub for version control
+-  Online meetings for regular updates
+-  Shared tools for visualization and brainstorming
+
+---
+
+## 📂 Repository Contents
+
