@@ -48,7 +48,6 @@ product_image - Product images and thumbnails
   git clone https://github.com/TabbyWambui331/Ecommerce_grp_138.git
 
 2. Execute the SQL script in your MySQL environment
-**Usage**
 
 **Contributing**
 
