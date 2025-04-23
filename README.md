@@ -6,7 +6,9 @@ This is a full MySQL database schema for an e-commerce site, created to handle c
 
 **Features**
            **DATABASE TABLES**
+           
 **Core Tables**
+
 brand - Stores brand information
 
 product_category - Categorizes products by hierarchy
@@ -16,6 +18,7 @@ product - Base product information
 product_item - Variants of the product (size, color selection)
 
 **Variation Management**
+
 color - Color selections
 
 size_category - Sizes categorized by type (shirt, shoes)
@@ -25,6 +28,7 @@ size_option - Individual size (S, M, L, 42)
 product_variation - Identifies variation types for the product
 
 **Attribute System**
+
 
 attribute_type - Data types for attributes (text, number, boolean)
 
