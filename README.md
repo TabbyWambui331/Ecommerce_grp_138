@@ -1,10 +1,10 @@
                                       E-commerce Database Design
 
-**Overview**
+## Overview
 
 This is a full MySQL database schema for an e-commerce site, created to handle complex product variations, attributes, categories, and inventory. The schema supports modern e-commerce requirements like multi-variant products, complex attribute systems, and flexible categorization.
 
-**Features**
+## Features
 
           DATABASE TABLES
            
@@ -42,18 +42,31 @@ product_attribute_value - Stores attribute values for products
 Media
 product_image - Product images and thumbnails
 
-**Installation**
+## Installation
 
 1. Clone this repository
   git clone https://github.com/TabbyWambui331/Ecommerce_grp_138.git
 
 2. Execute the SQL script in your MySQL environment
 
-**Contributing**
-
+## Contributing
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+5. Open a pull request.
 Contributions are welcome from you! Could you submit a pull request for any improvements?
 
-**Licence**
+## Licence
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 (https://mit-license.org/)
