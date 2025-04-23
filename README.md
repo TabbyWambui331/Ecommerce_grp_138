@@ -12,3 +12,6 @@ E-commerce Database Design
 **Contributing**
 
 **Licence**
+This project is licensed under the MIT License. See the LICENSE file for details.
+(https://mit-license.org/)
+
