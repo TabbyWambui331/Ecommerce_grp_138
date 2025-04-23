@@ -44,10 +44,10 @@ product_image - Product images and thumbnails
 
 **Installation**
 
-Clone this repository
+1. Clone this repository
   git clone https://github.com/TabbyWambui331/Ecommerce_grp_138.git
 
-Execute the SQL script in your MySQL environment
+2. Execute the SQL script in your MySQL environment
 **Usage**
 
 **Contributing**
