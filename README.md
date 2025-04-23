@@ -47,7 +47,9 @@ Execute the SQL script in your MySQL environment
 **Contributing**
 
 Contributions are welcome from you! Could you submit a pull request for any improvements?
+
 **Licence**
+
 This project is licensed under the MIT License. See the LICENSE file for details.
 (https://mit-license.org/)
 
