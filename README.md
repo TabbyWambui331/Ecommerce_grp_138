@@ -64,6 +64,7 @@ product_image - Product images and thumbnails
    git push origin feature/YourFeature
    ```
 5. Open a pull request.
+
 Contributions are welcome from you! Could you submit a pull request for any improvements?
 
 ## Licence
