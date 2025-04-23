@@ -24,7 +24,18 @@ size_option - Individual size (S, M, L, 42)
 
 product_variation - Identifies variation types for the product
 
+**Attribute System**
 
+attribute_type - Data types for attributes (text, number, boolean)
+
+attribute_category - Groups attributes by theme
+
+product_attribute - Defines available attributes
+
+product_attribute_value - Stores attribute values for products
+
+Media
+product_image - Product images and thumbnails
 
 **Installation**
 
