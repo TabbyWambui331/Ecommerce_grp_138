@@ -1,6 +1,7 @@
 E-commerce Database Design
 
 **Overview**
+
 This is a full MySQL database schema for an e-commerce site, created to handle complex product variations, attributes, categories, and inventory. The schema supports modern e-commerce requirements like multi-variant products, complex attribute systems, and flexible categorization.
 
 **Features**
