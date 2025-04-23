@@ -1,4 +1,4 @@
-                                          **E-commerce Database Design**
+                                      **    E-commerce Database Design**
 
 **Overview**
 
@@ -6,7 +6,7 @@ This is a full MySQL database schema for an e-commerce site, created to handle c
 
 **Features**
 
-           **DATABASE TABLES**
+          DATABASE TABLES
            
 **Core Tables**
 
