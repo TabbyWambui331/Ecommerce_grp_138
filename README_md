@@ -57,10 +57,10 @@ The ERD consists of the following entities:
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
-| Member 1 | DB Architect | Defined structure, keys, and relationships |
-| Member 2 | ERD Designer | Designed and updated the ERD |
-| Member 3 | SQL Developer | Wrote the SQL schema (`ecommerce.sql`) |
-| Member 4 | Documentation Lead | Managed this README and repo organization |
+| Doughlous Migele | DB Architect | Defined structure, keys, and relationships || Documentation Lead | Managed this README and repo organization |
+| Taitha Wambui | ERD Designer | Designed and updated the ERD |
+| Nwaonyeoma kosisochukwu Jennifer | SQL Developer | Wrote the SQL schema (`ecommerce.sql`) |
+ 
 
 We worked collaboratively through:
 -  GitHub for version control
